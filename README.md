@@ -59,7 +59,8 @@
 		in cooperation wtih RE, SA, and CDs
 	Report how testing engineering fundamentals apply to the practicum
 	
-# Code Developer (CD) (all team members will also be responsible for the following, for their portion of project code):
+# Code Developer (CD)
+## (all team members will also be responsible for the following, for their portion of project code):
 	Produce detailed functional requirements in conjuction with RE
 	Produce detailed design specs in conjunction with SA
 	Develop source code for 1-3 specific software modules of about 100 FP each
