@@ -1,8 +1,9 @@
 # Description:
 	
-	Take in a dataset and run a multithreaded statistical analysis test comprised of Kruskal-Wallis Test and Mann-Whitney U Test
-	to find correlations between any of the subcategories of the data and report them back to the user.
-**to be expanded**
+	Take in a dataset and run a multithreaded statistical analysis test comprised of Kruskal-Wallis Test and
+	Mann-Whitney U Test to find correlations between any of the subcategories of the data and report them
+	back to the user.
+	**to be expanded**
 
 # Project Roadmap:
 
