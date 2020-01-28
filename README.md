@@ -108,7 +108,7 @@
 		Project Log
 
 # Team member rolls and resonsibilities
-## Project Manager (PM):
+## Project Manager (PM) - Nick Rettig:
 	Coordinate all aspects of project execution
 	Check on "health" of team meambers
 	Make sure project goals for team are accomplished
@@ -123,7 +123,7 @@
 	Adapt project plan under changing circumstances
 	Report how project management fundamentals apply to the practicum
 
-## Requirements Engineer (RE) or Application Architect (AA):
+## Requirements Engineer (RE) or Application Architect (AA) - Daniel Smith:
 	Communicate the User/Product Director's desires to team
 	Translate UPDs user-oriented, abstract, and changeable description into high level function requirements
 	Answer questions about product functionality
@@ -135,7 +135,7 @@
 		with UPD
 	Report how requirement engineering fundamentals apply to the practicum
 	
-## Software Architect (SA):
+## Software Architect (SA) - Matt Mathias:
 	Translate RE's high level functional requirements into high level design specs and UML modeling
 	Divide product into software modules
 	Lead for translating detailed functional requirements into detailed design specs
@@ -143,7 +143,7 @@
 	Responsible for module design, GUI design, and common data structures (such as database tables)
 	Report how software architecture fundamentals apply to the practicum
 	
-## Integration Engineer (IE):
+## Integration Engineer (IE) - Enrique Dominguez:
 	Responsible for module interfaces
 		and module integration
 	Responsible for data transfer between modules
@@ -157,7 +157,7 @@
 		in conjuction with RE and CDs
 	Report how integration engineering fundamentals apply to the practicum
 	
-## Testing Engineer (TE):
+## Testing Engineer (TE) - Luis Perez:
 	Responsible for product functionality testing
 		and quality assurance testing
 	Design test ccase in conjunction with RE and CDs
