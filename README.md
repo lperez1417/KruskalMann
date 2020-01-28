@@ -1,4 +1,5 @@
 # Project Roadmap:
+
 	**1/27:**	Complete "Project Plan"
 
 	**1/28:**	1515-1615 Team Meeting: Discuss Project Plan
@@ -45,7 +46,8 @@
 			Present "Project Log"
 			Presentation
 		
-**To be worked into schedule and then integrated to a shared Google Calendar for progress tracking**		
+**To be worked into schedule and then integrated to a shared Google Calendar for progress tracking**
+	
 	RE meet with UPD
 	Team meet to discuss deliverables, schedule, and strategy
 
@@ -97,7 +99,6 @@
 	TE and RE: final acceptance testing report
 	PM presents Project Plan Component:
 		Project Log
-**The above to be worked into schedule and then integrated to a shared Google Calendar for progress tracking**		
 
 # Team member rolls and resonsibilities
 ## Project Manager (PM):
