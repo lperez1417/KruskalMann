@@ -287,30 +287,30 @@ Prototype
 **Should we cover all 5 stages or skip like proof of concept and prototype and just iterate adding with each cycle**
 
 # Team Meetings:
-##General issues
-	set agenda and time limits - **Tuesdays at 315-415pm**
-	choose the team leader - **Nick Rettig**
-	get time commitments
-		define expected average work hours per week - **5-10?**
-		gather dates of planned absences - **post them in Project Calendar with name**
-	take realistic census of coding skills from team - **please link a coding project you have worked on for us to look at**
-		common problem: inflated programming skills claimed by team memebers
-	begin forming a vision of the application - **everyone should haveinput**
-	decide how team will communicate - **discord, email, github (in that order)**
-	take meeting minutes with ocncrete action items - **what we accomplish each meeting**
-##Communication Precepts:
-	listen to all with concentration
-		dont pre-judge
-	give all team members a turn
-		see the value in every idea
-	dont make assumptions
-		ask questions for clarification
-	when in doubt, communicate
-##Communication Plan:
-	**Team meetings will be held each Tuesday from 315-415**
-	**Additional team meetings will be Thursdays from 315-415 (if needed or one-on-one)**
-	Standards for editors, compilers, documentation format, etc
-	**Email: Please acknowledge all correspondence directed at you with a simple response as soon as possible**
-	Collaboration: tools for group collaboration and discussion - **discord, github, Google Hangouts with school email**
-	Planning: Microsoft project, Google calendar - **link to follow soon**
+	##General issues
+		set agenda and time limits - **Tuesdays at 315-415pm**
+		choose the team leader - **Nick Rettig**
+		get time commitments
+			define expected average work hours per week - **5-10?**
+			gather dates of planned absences - **post them in Project Calendar with name**
+		take realistic census of coding skills from team - **please link a coding project you have worked on for us to look at**
+			common problem: inflated programming skills claimed by team memebers
+		begin forming a vision of the application - **everyone should haveinput**
+		decide how team will communicate - **discord, email, github (in that order)**
+		take meeting minutes with ocncrete action items - **what we accomplish each meeting**
+	##Communication Precepts:
+		listen to all with concentration
+			dont pre-judge
+		give all team members a turn
+			see the value in every idea
+		dont make assumptions
+			ask questions for clarification
+		when in doubt, communicate
+	##Communication Plan:
+		**Team meetings will be held each Tuesday from 315-415**
+		**Additional team meetings will be Thursdays from 315-415 (if needed or one-on-one)**
+		Standards for editors, compilers, documentation format, etc
+		**Email: Please acknowledge all correspondence directed at you with a simple response as soon as possible**
+		Collaboration: tools for group collaboration and discussion - **discord, github, Google Hangouts with school email**
+		Planning: Microsoft project, Google calendar - **link to follow soon**
 
