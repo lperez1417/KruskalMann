@@ -278,12 +278,11 @@
 **we should choose one of the development processes to follow, waterfall is easiest for a project like this, agile allows us to change and iterate and minimize wasting time**
 
 # Release types:
-Proof of concept
-Feasibility study
-Prototype
-"Internal" release
-"External" release
-
+	Proof of concept
+	Feasibility study
+	Prototype
+	"Internal" release
+	"External" release
 **Should we cover all 5 stages or skip like proof of concept and prototype and just iterate adding with each cycle**
 
 # Team Meetings:
