@@ -1,103 +1,102 @@
  # Project Roadmap:
- ##
- **1/27:**	Complete "Project Plan"
+ 	 **1/27:**	Complete "Project Plan"
 
-**1/28:**	1515-1615 Team Meeting: Discuss Project Plan
+	**1/28:**	1515-1615 Team Meeting: Discuss Project Plan
 
-**2/4:**	1515-1615 Team Meeting: 
+	**2/4:**	1515-1615 Team Meeting: 
 
-**2/11:**	1515-1615 Team Meeting:
+	**2/11:**	1515-1615 Team Meeting:
 
-**2/18:**	1515-1615 Team Meeting:
+	**2/18:**	1515-1615 Team Meeting:
 
-**2/25:**	1515-1615 Team Meeting:
+	**2/25:**	1515-1615 Team Meeting:
 
-**3/3:**	1515-1615 Team Meeting:
+	**3/3:**	1515-1615 Team Meeting:
 
-**3/10:**	1515-1615 Team Meeting:
+	**3/10:**	1515-1615 Team Meeting:
 
-**3/17:**	1515-1615 Team Meeting:
+	**3/17:**	1515-1615 Team Meeting:
 
-**3/24:**	1515-1615 Team Meeting:
+	**3/24:**	1515-1615 Team Meeting:
 
-**3/31:**	1515-1615 Team Meeting:
+	**3/31:**	1515-1615 Team Meeting:
 
-**4/7:**	 1515-1615 Team Meeting:
+	**4/7:**	 1515-1615 Team Meeting:
 
-**4/14:**	1515-1615 Team Meeting:
-			do verification and validation
-			check all requirements are met on all modules
-			test modules and benchmark them
-			complete implementation/integration over the next week
+	**4/14:**	1515-1615 Team Meeting:
+				do verification and validation
+				check all requirements are met on all modules
+				test modules and benchmark them
+				complete implementation/integration over the next week
 
-**4/21:**	1515-1615 Second to Final Team Meeting:
-			implementation/integration of all modules complete for testing
-			test run code
-			test run benchmark
-			make final revisions during last week
+	**4/21:**	1515-1615 Second to Final Team Meeting:
+				implementation/integration of all modules complete for testing
+				test run code
+				test run benchmark
+				make final revisions during last week
 
-**4/28:**	1515-1615 Final Team Meeting:
-			product complete before meeting with revisions from week prior
-			final testing of code
-			final benchmark before presentation
-			
-**DUE DATE 4/30:**	Final Demo of integrated product.
-		Final Acceptance testing report.
-		Present "Project Log"
-		Presentation
+	**4/28:**	1515-1615 Final Team Meeting:
+				product complete before meeting with revisions from week prior
+				final testing of code
+				final benchmark before presentation
+
+	**DUE DATE 4/30:**	Final Demo of integrated product.
+			Final Acceptance testing report.
+			Present "Project Log"
+			Presentation
 		
 **To be worked into schedule and then integrated to a shared Google Calendar for progress tracking**		
-RE meet with UPD
-Team meet to discuss deliverables, schedule, and strategy
+	RE meet with UPD
+	Team meet to discuss deliverables, schedule, and strategy
 
-PM announce role specific Calendar of Deliverables
-RE presents product need scenarios
+	PM announce role specific Calendar of Deliverables
+	RE presents product need scenarios
 
-RE presents requirements analysis
-	feasability study
-RE presents requirements specifications
+	RE presents requirements analysis
+		feasability study
+	RE presents requirements specifications
 
-GUI and Menu standards documents due from RE
-SA presents the achitecture selection and high-level modules
+	GUI and Menu standards documents due from RE
+	SA presents the achitecture selection and high-level modules
 
-Team meet on Preliminary Design Review
+	Team meet on Preliminary Design Review
 
-SA present detailed design in UML
-PM announces task assignments of unit implementation
+	SA present detailed design in UML
+	PM announces task assignments of unit implementation
 
-CD's begin unit implementation
-Function point counts due from each CD
+	CD's begin unit implementation
+	Function point counts due from each CD
 
-PM announces revised task assignments by function points
+	PM announces revised task assignments by function points
 
-Code developing
-PM presents the Project Management Plan:
-	project scope
-	organization
-	tasks
-	milestones
-	and scheduling
-	
-SA presents Help System technology and Help Standards
+	Code developing
+	PM presents the Project Management Plan:
+		project scope
+		organization
+		tasks
+		milestones
+		and scheduling
 
-PM prsents Project Plan component:
-	Quality Assurance
-	and Risk Management Plan
-	
-Unit code due from each CD
+	SA presents Help System technology and Help Standards
 
-TE presents acceptance testing evaluation criteria
-	and test plan
-	
-user manual sections of each unit due from CD's
-TE: unit testing
-	and debugging
-Integrated product code due from IE
-TE: Integration testing
-IE: demo of the integrated product
-TE and RE: final acceptance testing report
-PM presents Project Plan Component:
-	Project Log
+	PM prsents Project Plan component:
+		Quality Assurance
+		and Risk Management Plan
+
+	Unit code due from each CD
+
+	TE presents acceptance testing evaluation criteria
+		and test plan
+
+	user manual sections of each unit due from CD's
+	TE: unit testing
+		and debugging
+	Integrated product code due from IE
+	TE: Integration testing
+	IE: demo of the integrated product
+	TE and RE: final acceptance testing report
+	PM presents Project Plan Component:
+		Project Log
 **The above to be worked into schedule and then integrated to a shared Google Calendar for progress tracking**		
 
 # Team member rolls and resonsibilities
