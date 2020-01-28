@@ -1,4 +1,4 @@
-##Project Manager (PM):
+# Project Manager (PM):
 	Coordinate all aspects of project execution
 	Check on "health" of team meambers
 	Make sure project goals for team are accomplished
@@ -13,7 +13,7 @@
 	Adapt project plan under changing circumstances
 	Report how project management fundamentals apply to the practicum
 
-##Requirements Engineer (RE) or Application Architect (AA):
+# Requirements Engineer (RE) or Application Architect (AA):
 	Communicate the User/Product Director's desires to team
 	Translate UPDs user-oriented, abstract, and changeable description into high level function requirements
 	Answer questions about product functionality
@@ -25,7 +25,7 @@
 		with UPD
 	Report how requirement engineering fundamentals apply to the practicum
 	
-##Software Architect (SA):
+# Software Architect (SA):
 	Translate RE's high level functional requirements into high level design specs and UML modeling
 	Divide product into software modules
 	Lead for translating detailed functional requirements into detailed design specs
@@ -33,7 +33,7 @@
 	Responsible for module design, GUI design, and common data structures (such as database tables)
 	Report how software architecture fundamentals apply to the practicum
 	
-##Integration Engineer (IE):
+# Integration Engineer (IE):
 	Responsible for module interfaces
 		and module integration
 	Responsible for data transfer between modules
@@ -47,7 +47,7 @@
 		in conjuction with RE and CDs
 	Report how integration engineering fundamentals apply to the practicum
 	
-##Testing Engineer (TE):
+# Testing Engineer (TE):
 	Responsible for product functionality testing
 		and quality assurance testing
 	Design test ccase in conjunction with RE and CDs
@@ -59,7 +59,7 @@
 		in cooperation wtih RE, SA, and CDs
 	Report how testing engineering fundamentals apply to the practicum
 	
-##Code Developer (CD) (all team members will also be responsible for the following, for their portion of project code):
+# Code Developer (CD) (all team members will also be responsible for the following, for their portion of project code):
 	Produce detailed functional requirements in conjuction with RE
 	Produce detailed design specs in conjunction with SA
 	Develop source code for 1-3 specific software modules of about 100 FP each
